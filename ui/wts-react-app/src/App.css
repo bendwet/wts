@@ -1,0 +1,33 @@
+body {
+  background-color: #282c34;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+
+.App-prediction {
+  color:ivory;
+  font-family: Arial;
+  font-size: 40px;
+  padding: 10px;
+  border: 2px solid ivory;
+  width: 280px;
+  height: 100px;
+  margin: auto;
+}
+
+.App-upload {
+  color:ivory;
+  font-family: Arial;
+  font-size: 50px;
+  padding: 35px;
+}
+
+.App-header {
+  background-color:seagreen;
+  color:ivory;
+  font-family: Arial;
+  font-size: 50px;
+  padding: 35px;
+}
